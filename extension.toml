@@ -8,5 +8,5 @@ repository = "https://github.com/carlosxfelipe/zed-dataweave"
 
 [grammars.dataweave]
 repository = "https://github.com/carlosxfelipe/zed-dataweave"
-rev = "de0c803a2f9f3292f3f62390f4075e3880eafd23"
+rev = "50c809348b28b99d307b81e3bba34e4edad01d0a"
 path = "tree-sitter-dataweave"
