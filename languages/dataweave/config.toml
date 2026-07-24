@@ -1,0 +1,12 @@
+name = "DataWeave"
+grammar = "dataweave"
+path_suffixes = ["dwl"]
+line_comments = ["// "]
+autoclose_before = " \n\r\t};)>]"
+brackets = [
+    { start = "{", end = "}", close = true, newline = true },
+    { start = "[", end = "]", close = true, newline = true },
+    { start = "(", end = ")", close = true, newline = false },
+    { start = "\"", end = "\"", close = true, newline = false },
+    { start = "'", end = "'", close = true, newline = false },
+]

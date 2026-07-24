@@ -1,0 +1,11 @@
+id = "dataweave"
+name = "DataWeave"
+version = "0.0.1"
+schema_version = 1
+authors = ["Carlos Felipe Araújo"]
+description = "DataWeave language support for Zed."
+repository = "https://github.com/carlosxfelipe/zed-dataweave"
+
+[grammars.dataweave]
+repository = "file:///Users/carlos/Desenvolvimento/data/zed-dataweave-extension/tree-sitter-dataweave"
+rev = "1f69df1fad12d8b8008fe374c70fc492e29bebc5"
