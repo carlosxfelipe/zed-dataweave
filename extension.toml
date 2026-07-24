@@ -7,5 +7,5 @@ description = "DataWeave language support for Zed."
 repository = "https://github.com/carlosxfelipe/zed-dataweave"
 
 [grammars.dataweave]
-repository = "file:///Users/carlos/Desenvolvimento/data/zed-dataweave-extension/tree-sitter-dataweave"
-rev = "1f69df1fad12d8b8008fe374c70fc492e29bebc5"
+repository = "https://github.com/carlosxfelipe/zed-dataweave"
+rev = "de0c803a2f9f3292f3f62390f4075e3880eafd23"
